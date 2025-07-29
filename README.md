@@ -1,8 +1,8 @@
-# [元始道藏](https://chendaojun.github.io/mkdocs-daozang/)
+# [元始道藏](https://daojia-9999.github.io/YuanshiDaozang/)
 
 ## About
 
-這是我自己的收錄道藏專用的倉庫，歡迎fork和star.
+這是道門弟子收錄道藏專用的倉庫，歡迎fork和star.
 
 謝謝！
 
