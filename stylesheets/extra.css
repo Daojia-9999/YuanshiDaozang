@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "LXGW Wenkai TC";
+    src: "https://github.com/lxgw/LxgwWenkaiTC/releases/latest/download/LXGWWenKaiTC-Bold.ttf";
+  }
+:root {
+  --md-text-font: "LXGW WenKai TC"; 
+}
